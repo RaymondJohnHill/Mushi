@@ -9,5 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface MushiViewController : UIViewController
+- (IBAction)isTapped:(UITapGestureRecognizer *)sender;
 
 @end
